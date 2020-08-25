@@ -4,7 +4,7 @@ You may use this repository as an example of your portfolio
 
 ## An example of project desriptions in README.md
 
-These projects were completed during the training of the Data Analyst / Data Scientist professional program in Practicum by Yandex.
+These projects were completed for Practicum's Data Analyst / Data Scientist professional training programs.
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
