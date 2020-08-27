@@ -8,4 +8,5 @@ These projects were completed for Practicum's Data Analyst / Data Scientist prof
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [First project](first_project) | First project description. Please, keep it short and sweet| *pandas* |
+| [Real Estate Analysis](first_project) | Determining the
+market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
